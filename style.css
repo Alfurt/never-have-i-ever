@@ -22,8 +22,8 @@ input {
   margin: 100px 200px;
   border-radius: 10px;
   box-shadow: 0 0 40px 40px #F137A6 inset, 0 0 0 0 #F137A6;
-  font-family: 'Montserrat', sans-serif #1a001a;
-  font-size: 80px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px #1a001a;
   font-weight: bold;
   letter-spacing: 2px;
   color: white;
