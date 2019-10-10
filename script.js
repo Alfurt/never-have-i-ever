@@ -167,5 +167,7 @@ var questions = [
 
 
 var num = Math.floor(Math.random()*questions.length);
-alert(questions[num]);
+var num = Math.floor(Math.random()*questions.length);
+document. getElementById("result-field").innerHTML = questions[num];
+
 }
