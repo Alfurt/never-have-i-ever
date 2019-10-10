@@ -1,8 +1,12 @@
-html, body {
-background-color: #1a001a;
+html{
 margin: 0;
 height: 100%;
 }
+
+body {
+background-color: #1a001a;
+margin: 0;
+height: 100%;}
 
 #wrapper {
   width: 90%;
