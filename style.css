@@ -1,4 +1,4 @@
-
+⁸
 
 body {
 background: #1a001a;
@@ -18,10 +18,10 @@ input {
   text-decoration: none;
   outline: none;
   display: inline-block;
-  padding: 150px 300px;
+  padding: 3em 2em;
   margin: 0px auto;
   border-radius: 10px;
-  box-shadow: 0 0 40px 40px #F137A6 inset, 0 0 0 0 #F137A6;
+  box-shadow: 0 0 3em 2em #F137A6 inset, 0 0 0 0 #F137A6;
   font-family: 'Montserrat', sans-serif;
   font-size: 80px #1a001a;
   font-weight: bold;
