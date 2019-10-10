@@ -1,12 +1,12 @@
-⁸
-
-body {
+html, body {
 background: #1a001a;
+margin: 0;
+height: 100%;
 }
 
 #wrapper {
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: 90%;
   margin: 5%;
   display: flex;
   align-items: center;
@@ -21,7 +21,7 @@ input {
   padding: 3em 2em;
   margin: 0px auto;
   border-radius: 10px;
-  box-shadow: 0 0 3em 2em #F137A6 inset, 0 0 0 0 #F137A6;
+  box-shadow: 0 0 2em 1em #F137A6 inset, 0 0 0 0 #F137A6;
   font-family: 'Montserrat', sans-serif;
   font-size: 80px #1a001a;
   font-weight: bold;
@@ -31,7 +31,7 @@ input {
 }
 
 input:hover {
-  box-shadow: 0 0 10px 0 #F137A6 inset, 0 0 10px 4px #F137A6;
+  box-shadow: 0 0 0.1em 0 #F137A6 inset, 0 0 10px 4px #F137A6;
   color: #F137A6;
 }
 
